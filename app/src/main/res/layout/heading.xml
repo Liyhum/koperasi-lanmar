@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.button.MaterialButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/heading"
+    android:textColor="@color/white"
+    android:text="Lanmar"
+    android:textSize="18sp"
+    app:cornerRadius="20dp"
+    android:layout_margin="10dp"/>

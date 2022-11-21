@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Koperasi Lanmar</string>
+    <string name="sub_splash">Primkopal Lanmar Jakarta From Member to Member</string>
+    <string name="title_spalsh">Welcome</string>
+    <string-array name="planets_array">
+        <item>Perwira</item>
+        <item>Bintara</item>
+        <item>Tamtama</item>
+        <item>Golongan III</item>
+        <item>Golongan II</item>
+        <item>Golongan I</item>
+    </string-array>
+    <string-array name="satuan_kerja_array">
+        <item>Lanmar</item>
+        <item>Akun</item>
+        <item>BP Kwini</item>
+        <item>Den Ang</item>
+        <item>Den Har</item>
+        <item>Den Sik</item>
+        <item>Primkopal</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_anggota">List Anggota</string>
+</resources>

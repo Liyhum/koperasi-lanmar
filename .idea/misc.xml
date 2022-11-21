@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/activity_list_user.xml" value="0.22" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/activity_register_user.xml" value="0.14457831325301204" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/fragment_admin.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/fragment_admin_all.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/fragment_home.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/fragment_juru_bayar.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/fragment_juru_menu.xml" value="0.1" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/fragment_menu.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/img_back.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/layout_list_group.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/layout_list_group_all.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/layout_rincian.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/layout_user.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/row_view.xml" value="0.15305686190679776" />
+        <entry key="..\:/Project/KoperasiLanmar/app/src/main/res/layout/row_view_user.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/natur/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/background_rounded.xml" value="0.1925" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/balance_wallet.xml" value="0.1745" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/blue_ring.xml" value="0.175" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/circle.xml" value="0.2" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.175" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/ic_baseline_camera_alt_24.xml" value="0.175" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1745" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" value="0.175" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.175" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/ic_baseline_security_24.xml" value="0.1745" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/ic_logo_prim_1.xml" value="0.175" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/img.xml" value="0.2" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/layer.xml" value="0.175" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/privacy.xml" value="0.1745" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/rectangle_back.xml" value="0.175" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/rectangle_white.xml" value="0.18" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/rectangle_white2.xml" value="0.1925" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/red_ring.xml" value="0.175" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/drawable/selector_main.xml" value="0.175" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/activity_Pensiun.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/activity_forgot.xml" value="0.25" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/activity_kirim_mutasi.xml" value="0.33" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/activity_kirim_pensiun.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/activity_mutasi.xml" value="0.22" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/activity_pensiun.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/activity_register_user.xml" value="0.22" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/fragment_admin.xml" value="0.25" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/fragment_admin_all.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/fragment_done.xml" value="0.22" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/fragment_done2.xml" value="0.14151346729371525" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/fragment_juru_bayar.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/fragment_juru_menu.xml" value="0.1" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/fragment_menu.xml" value="0.22" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/fragment_profile.xml" value="0.18" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/heading.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/img_back.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/layout_list_group.xml" value="0.22" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/layout_list_group_all.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/layout_list_personil.xml" value="0.25" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/layout_user.xml" value="0.22" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/list_item.xml" value="0.15220179563916203" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/layout/row_view.xml" value="0.25" />
+        <entry key="..\:/Users/natur/KoperasiLanmar/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.175" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
